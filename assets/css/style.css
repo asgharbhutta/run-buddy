@@ -237,9 +237,14 @@ section {
   color: #fce138;
 }
 
-.contact-info img {
-  width: 600px;
-  height: 400px;
+/*.contact-info img {
+  width:400px;
+  height:400px;
+}*/
+
+.contact-info iframe {
+  width:400px;
+  height:400px;
 }
 
 .contact-info div {
